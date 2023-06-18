@@ -1,0 +1,10 @@
+{
+	"name": "GitHub Azure OIDC",
+	"dockerFile": "Dockerfile",
+	"settings": {},
+	"remoteUser": "vscode",
+	"features": {
+		"azure-cli": "latest",
+		"github-cli": "latest"
+	}
+}
